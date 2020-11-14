@@ -8,6 +8,8 @@ namespace OracleExecReader
 
     /// <summary> 
     /// OracleExecReader version 1.0   by Elrey Velicaria 10/2020 
+    /// A simple command line utility to pull data from an Oracle Database.
+    /// 
     /// Exit Code 0: Means empty result set. 
     /// Exit Code 1: Means with results. 
     /// Exit Code -1: Means error.  See error.log file created. 
